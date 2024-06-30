@@ -30,9 +30,6 @@ Fresh bread, baked to perfection.
 Cheese
 Cheese for a fantastic and healthy future.
 
-Meat
-100% pure beef, big and meaty.
-
 Vegetables
 Vegetables full of the essence of nature and organic.
 
@@ -46,19 +43,16 @@ Most Devoured <br> Burgers
 
 .popular__title .popular__price
 Chicken <br> Burger
-$6
-
-Meat <br> Burger
-$10
+₹180
 
 Grill <br> Burger
-$12
+₹360
 
 Classic <br> Burger
-$8
+₹240
 
 Big <br> Burger
-$15
+₹400
 
 
 ========== DELIVERY ==========
@@ -87,12 +81,12 @@ https://m.me/bedimcode
 https://t.me/telegram
 
 Call Us and Order
-+00-987-7654-321 <br>
-+11-012345
++91-8077813779 <br>
+
 
 Find us here
-Lima - Sun City - Peru <br>
-Av. Moon #4321
+Ozone Gallaria Mall-Dhanbad(826004) <br>
+Jharkhand
 
 
 ========== FOOTER ==========
